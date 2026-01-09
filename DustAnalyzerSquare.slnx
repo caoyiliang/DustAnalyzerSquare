@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DustAnalyzerSquare/DustAnalyzerSquare.csproj" />
+  <Project Path="Test/Test.csproj" />
+</Solution>
