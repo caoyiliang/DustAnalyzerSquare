@@ -8,7 +8,7 @@
 		<PackageId>CSoft.Protocol.$(AssemblyName)</PackageId>
 		<Authors>CSoft</Authors>
 		<Company>CSoft</Company>
-		<Description>泽天方形粉尘仪通讯协议</Description>
+		<Description>泽天方型粉尘仪通讯协议</Description>
 		<PackageIcon>logo.png</PackageIcon>
 		<RepositoryUrl>https://github.com/caoyiliang/DustAnalyzerSquare</RepositoryUrl>
 		<PackageProjectUrl>https://github.com/caoyiliang/DustAnalyzerSquare</PackageProjectUrl>
